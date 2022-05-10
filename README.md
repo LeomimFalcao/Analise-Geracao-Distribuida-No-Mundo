@@ -1,0 +1,1 @@
+# Analise-Geracao-Distribuida-No-Mundo
